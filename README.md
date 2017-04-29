@@ -16,3 +16,5 @@ Implementation:
 - Then, we can modify it to make it more complex with the extra accept method added to allow visitor access to the element.
 - On the other hand, we also implement a visitor interface. 
 - This deals with the specifics of the output. 
+
+- The Visitor pattern provides a concrete visitor class in which we can use to visit the classes of a variety of different objects to perform operations on them. The visitor interface provides a visit method for each different type of object whereas the visitable interface defines an accept method for each of its classes. This allows the user to add functionality to classes without changing them.
