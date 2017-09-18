@@ -6,7 +6,7 @@ Definition:
 
 Used For:
 - Used to create an external class that uses data in the other classes.
-- To perform operations across a dispate set of objects.
+- To perform operations across a disparate set of objects.
 - To decouple some logical code from the elements that you're using as input.
 
 Implementation:
